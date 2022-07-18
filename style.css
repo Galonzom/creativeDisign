@@ -518,9 +518,7 @@ margin-top: 5rem;
     .section-heading{
         margin-bottom: 5rem;
     }
-    .team-member {
-       margin: 5rem auto;
-    }
+    
 }
 @media(max-width:550px){
     html{
